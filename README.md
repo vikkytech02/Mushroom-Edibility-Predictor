@@ -55,7 +55,7 @@ mushroom-edibility-predictor/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/vikkytech02/mushroom-edibility-predictor.git
+git clone https://github.com/vikkytech02/Mushroom-Edibility-Predictor.git
 cd mushroom-edibility-predictor
 ```
 
