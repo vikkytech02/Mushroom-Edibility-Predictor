@@ -42,9 +42,8 @@ A machine learning web application that predicts whether a mushroom is **edible*
 ```
 mushroom-edibility-predictor/
 ├── mushrooms.csv                 # Dataset
-├── train_mushroom_model.py      # Training script
+├── train_model.py      # Training script
 ├── app.py                       # Streamlit app
-├── mushroom_model.pkl           # Trained model with encoders
 ├── requirements.txt             # Dependencies
 └── README.md                    # Project documentation
 ```
@@ -69,7 +68,7 @@ pip install -r requirements.txt
 3. **Train the model (if not already trained)**
 
 ```bash
-python train_mushroom_model.py
+python train_model.py
 ```
 
 4. **Launch the app**
